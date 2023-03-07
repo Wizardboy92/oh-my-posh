@@ -24,9 +24,9 @@ require (
 	github.com/stretchr/testify v1.8.0
 	github.com/wayneashleyberry/terminal-dimensions v1.1.0
 	golang.org/x/crypto v0.0.0-20221012134737-56aed061732a // indirect
-	golang.org/x/image v0.0.0-20220902085622-e7cb96979f69
+	golang.org/x/image v0.5.0
 	golang.org/x/sys v0.0.0-20221013171732-95e765b1cc43
-	golang.org/x/text v0.3.8
+	golang.org/x/text v0.7.0
 	gopkg.in/ini.v1 v1.67.0
 )
 
